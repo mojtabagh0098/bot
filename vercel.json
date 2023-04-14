@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/V1/*",
+      "destination": "https://api.oibourse.ir/Web/*"
+    }
+  ]
+}
